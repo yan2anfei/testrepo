@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <default sync-j="2"/>
-  <remote fetch="git@gitee.com:yan2anfei_gitee/battery_test_shell.git" name="my-battery"/>
- <project remote="my-battery" revision="master" name="my-battery-master" path="sources/my-battery" />
+  <remote fetch="git@gitee.com:yan2anfei_gitee/" name="my-battery"/>
+ <project remote="my-battery" revision="master" name="battery_test_shell" path="sources/my-battery" />
 </manifest>
