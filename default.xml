@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <default sync-j="2"/>
- <remote fetch="git://github.com/yan2anfei" name="gdb"/>
- <project remote="gdb" revision="master" name="gdb" path="sources/gdb" />
+ <remote fetch="git://github.com/yan2anfei" name="mygithub"/>
+ <project remote="mygithub"  name="gdb" path="sources/my_gdb" />
 </manifest>
