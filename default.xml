@@ -2,5 +2,5 @@
 <manifest>
  <default sync-j="2"/>
  <remote fetch="git://github.com/yan2anfei" name="my-battery"/>
- <project remote="my-battery" revision="master" name="gdb" path="sources/my-gdb" />
+ <project remote="my-battery" revision="master" name="gdb" path="sources/gdb" />
 </manifest>
